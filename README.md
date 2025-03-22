@@ -24,4 +24,4 @@ These are installed in order to proceed with the exercise and the subject
     - I followed these websites for installation [MongoDB](https://www.mongodb.com/docs/manual/administration/install-community/) , [MongoDB Compass](https://www.mongodb.com/products/compass) and [MongoDB Shell](https://www.mongodb.com/try/download/shell)
       
 4. **Installing Git**
-    - I downloaded Git from [Git](https://git-scm.com/) 
+    - I downloaded Git from [Git](https://git-scm.com/)
