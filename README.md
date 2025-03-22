@@ -26,6 +26,4 @@ These are installed in order to proceed with the exercise and the subject
 4. **Installing Git**
 <<<<<<< HEAD
     - I downloaded Git from [Git](https://git-scm.com/) 
-=======
-    - I downloaded Git from [Git](https://git-scm.com/)
->>>>>>> 79dd740291dbaee8ec58e526a7ee0007d6195dfa
+
